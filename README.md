@@ -216,25 +216,17 @@ Campus-Navigation-System
 ├── main.py
 └── README.md
 ```
+## 👩‍💻 Team Members
 
-Display them using:
+| Name | Roll Number |
+|------|------------|
+| Kolavali Sanjana | 2520030614 |
+| Yerrolla Eekshitha | 2520030615 |
+| Padala Anikha | 2520030613 |
 
-```markdown
-## Project Output
+---
 
-![Output 1](images/output1.png)
-
-![Output 2](images/output2.png)
 ```
-
----
-
-## 👩‍💻 Project Team
-
-* Yerrolla Eekshitha
-* Team Members
-
----
 
 ## 📚 Course
 

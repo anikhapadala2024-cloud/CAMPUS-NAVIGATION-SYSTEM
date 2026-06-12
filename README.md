@@ -226,8 +226,6 @@ Campus-Navigation-System
 
 ---
 
-```
-
 ## 📚 Course
 
 **Course:** CFAI (Computational Foundations of Artificial Intelligence)

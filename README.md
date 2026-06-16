@@ -230,6 +230,8 @@ Campus-Navigation-System
 
 **Course:** CFAI (Computational Foundations of Artificial Intelligence)
 
+**Cource Code:** 25SC1306E
+
 **Project Title:** Campus Navigation System
 
 **Academic Year:** 2025–26
